@@ -14,7 +14,7 @@ A slashing game focused on getting the biggest combo
 ### Programming Features
 - Wave system
 - Pools (gems, bombs, touch trails)
-- Coroutines
+- Coroutines (wave warmup, wave delay and UI animations)
 - Random generation (position, force, rotation)
 
-[APK]: https://github.com/tambosi-matheus/GemNinja/blob/main/GemNinja.zip
+[APK]: https://github.com/tambosi-matheus/GemNinja/raw/main/GemNinja.zip
